@@ -12,7 +12,9 @@ namespace ApplicationOnGit
         {
 
             Console.WriteLine("Hello - World");
+            Console.WritLine("hi");
             Console.ReadLine();
+            
         }
     }
 }
